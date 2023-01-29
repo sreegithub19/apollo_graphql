@@ -1,6 +1,7 @@
 Steps to run and deploy the project:
 
-- npm install --save apollo-server graphql @apollo/server
+- npm install (or) npm install --save apollo-server graphql @apollo/server
+- node index.js
 
 ---
 
