@@ -23,3 +23,9 @@ https://user-images.githubusercontent.com/55496113/222118394-16668de9-fb6c-45b2-
 Part 2:
 https://user-images.githubusercontent.com/55496113/222118439-d50b12c3-8411-4ef7-a1bd-95f371b189cf.mp4
 
+---
+For GraphQL:
+
+{
+  hello
+}
