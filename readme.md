@@ -26,6 +26,8 @@ https://user-images.githubusercontent.com/55496113/222118439-d50b12c3-8411-4ef7-
 ---
 For GraphQL:
 
+<pre>
 {
   hello
 }
+</pre>
