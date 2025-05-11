@@ -31,3 +31,20 @@ For GraphQL:
   hello
 }
 </pre>
+---
+
+GraphQL URLs:
+- https://apollo-graphql.vercel.app/sudoku_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/calculator_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/maze_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/tic_tac_toe_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/clock_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/hangman_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/puzzles_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/virtual_keyboard_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/solitaire_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/chess_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/dino_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/sass_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/tilt_maze_?query=%7B%0A%20%20hello%0A%7D
+- https://apollo-graphql.vercel.app/codepen_?query=%7B%0A%20%20hello%0A%7D
